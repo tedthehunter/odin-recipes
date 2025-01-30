@@ -1,0 +1,16 @@
+* {
+    font-family: monospace;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+ul, ol {
+    background-color: darkgrey;
+}
+
+li {
+    color: white;
+}
