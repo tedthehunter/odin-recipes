@@ -3,14 +3,27 @@
 }
 
 h1 {
-    color: blue;
+    color: rgba(11, 24, 39, 0.89);
     text-align: center;
 }
 
-ul, ol {
-    background-color: darkgrey;
+ul, ol, div {
+    background-color: rgb(110, 173, 255);
+    padding: 8px 8px 8px 32px;
+    width: 40%;
+    margin: auto;
 }
 
 li {
-    color: white;
+    color: rgba(11, 24, 39, 0.89);
+    margin: 8px;
+}
+
+a {
+    color: rgba(11, 24, 39, 0.89);
+}
+
+a, p, h1, h3 {
+    width: 40%;
+    margin: auto;
 }
